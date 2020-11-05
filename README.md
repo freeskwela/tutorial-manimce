@@ -1,2 +1,2 @@
 # tutorial-manimce
-Tutorial on using Manim (Math Animation Tool) Community Edition
+Tutorial on using Manim (Mathematical Animation Engine) Community Edition
