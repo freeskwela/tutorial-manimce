@@ -40,8 +40,8 @@
      lock-margins="true"
      inkscape:window-width="1042"
      inkscape:window-height="943"
-     inkscape:window-x="786"
-     inkscape:window-y="69"
+     inkscape:window-x="777"
+     inkscape:window-y="88"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -69,7 +69,7 @@
      inkscape:label="bot">
     <path
        style="fill:#0d0d0d;fill-opacity:1;stroke:#0d0d0d;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 19.883436,33.112604 6.65427,46.34177 h 26.458333 c 7.9375,0 13.229167,-5.291667 13.229167,-13.229167 V 19.883436 H 33.112604 v 13.229168 z"
+       d="M 19.883436,33.112605 6.6542697,46.341771 H 33.112603 c 7.9375,0 13.229167,-5.291667 13.229167,-13.229167 V 19.883437 H 33.112604 v 13.229168 z"
        id="path836"
        sodipodi:nodetypes="cccccccc" />
   </g>
@@ -80,8 +80,8 @@
      transform="translate(-13.387918,-7.2363562)"
      style="opacity:1">
     <path
-       style="fill:#0d0d0d;stroke:#0d0d0d;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
-       d="M 46.500522,27.119793 59.729688,13.890626 h -39.6875 V 40.34896 H 33.271354 V 27.119793 Z"
+       style="fill:#0d0d0d;fill-opacity:1;stroke:#0d0d0d;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 46.500522,27.119794 59.729688,13.890626 h -39.6875 V 40.348961 H 33.271354 V 27.119794 Z"
        id="path838" />
   </g>
   <g
@@ -93,7 +93,7 @@
        id="rect874"
        width="13.229166"
        height="13.229166"
-       x="19.883436"
+       x="19.883434"
        y="19.883436" />
   </g>
 </svg>
