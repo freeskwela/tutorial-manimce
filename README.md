@@ -7,3 +7,4 @@ Tutorial on using Manim (Mathematical Animation Engine) Community Edition
 :books: https://docs.manim.community/en/stable/index.html  
 :link: https://en.wikibooks.org/wiki/TeX  
 :link: https://en.wikibooks.org/wiki/LaTeX  
+:link: https://talkingphysics.wordpress.com/  
